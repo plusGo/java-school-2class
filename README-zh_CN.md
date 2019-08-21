@@ -1,5 +1,8 @@
 # JAVA学校 课后作业
 
+## [English](https://github.com/plusGo/java-school-2class/blob/master/README.md) | 中文
+
+
 ## 为什么要尽量减少局部变量的范围？
 #### 通过最小化局部变量的范围，可以提高代码的可读性和可维护性，并降低出错的可能性。
 

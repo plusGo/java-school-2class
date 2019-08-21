@@ -1,5 +1,7 @@
 # JAVA School Homework
 
+## English | [中文](https://github.com/plusGo/java-school-2class/blob/master/README-zh_CN.md)
+
 ## Why should you have minimum scope for variables?
 
 ### By minimizing the scope of local variables, you increase the readability and maintainability of your code and reduce the likelihood of error.
